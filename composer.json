@@ -1,0 +1,9 @@
+
+{
+    "name": "embanet-compass/moodle-block-jumpto-menu",
+    "type": "moodle-block",
+    "description": "Report Plugin",
+    "extra": {
+        "installer-name": "jumpto_menu",
+        "moodle": { "package_folder_name" : "jumpto_menu" }
+    }
