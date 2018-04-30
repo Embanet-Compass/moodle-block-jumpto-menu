@@ -1,4 +1,3 @@
-
 {
     "name": "embanet-compass/moodle-block-jumpto-menu",
     "type": "moodle-block",
@@ -7,3 +6,4 @@
         "installer-name": "jumpto_menu",
         "moodle": { "package_folder_name" : "jumpto_menu" }
     }
+}
