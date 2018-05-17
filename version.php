@@ -14,7 +14,7 @@
 //
 // You should have received a copy of the GNU General Public License
 // along with Moodle.  If not, see <http://www.gnu.org/licenses/>.
-
+$plugin->component = 'block_jumpto_menu';
 $plugin->version = 2015080501;
 $plugin->requires = 2013111800;
 $plugin->release = "2015080501";
